@@ -1,0 +1,6 @@
+# Health App — robots.txt (sample for the revamp)
+# On live deployment this serves from https://thehealthapp.co.in
+User-agent: *
+Allow: /
+
+Sitemap: https://thehealthapp.co.in/sitemap.xml
